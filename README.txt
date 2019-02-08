@@ -29,3 +29,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+netlify deployment: https://ecstatic-volhard-083f23.netlify.com/
